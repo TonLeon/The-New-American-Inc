@@ -1,0 +1,3 @@
+/* site only: the three canvas artboards share one grid here */
+dc-slot, .dc-slot { display: contents; }
+@media (max-width: 719px) { #bibliography, .fp-bib { order: 13; } }
