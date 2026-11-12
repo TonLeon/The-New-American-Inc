@@ -45,7 +45,7 @@ var FP_S2_PAGES = {};
 var FP_S2_PAGES_MAX = 40;
 var FP_S2_MEASURES = [
   { key: 'occ', col: 1, name: 'Ads printed', sub: 'Ads printed, by category.\n\n' },
-  { key: 'adv', col: 3, name: 'Advertisers', sub: 'Advertisers, by category. Schools and courses were the most numerous: 36 of them. Two advertisers appear under two categories, so the bars add up to 306, not 304.' }
+  { key: 'adv', col: 3, name: 'Advertisers', sub: 'Advertisers, by category. Two advertisers appear under two categories, so the bars add up to 306, not 304.' }
 ];
 // English names where the data's own reads oddly on the page
 var FP_S2_NAMES = { '«Новый Американец» (newspaper)': 'Novyi Amerikanets (its own ads)', 'Fortunetelling': 'Fortune-telling', 'Mrs. Doris (fortune-teller)': 'Mrs. Doris, fortune-teller' };
